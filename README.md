@@ -1,3 +1,15 @@
+Demo Photos: 
+
+<img width="400" height="400" alt="sign-up" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/63b5775c-5e77-4548-9228-4892f27542ae">
+<img width="400" height="400" alt="logout" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/6746b299-c698-4ed9-9061-14ad67e36b4e">
+<img width="400" height="400" alt="login" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/454367aa-d6b7-46ff-85d3-70d4db6d3acd">
+<img width="400" height="400" alt="contact_us" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/6185e406-b5c1-459f-8a4c-c1706886a99f">
+<img width="400" height="400" alt="admin_logout" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/4edd0773-a4fe-4891-97b7-2afa58494b43">
+<img width="400" height="400" alt="admin_login" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/982c16cd-7d91-4d82-a3e1-05d34fd5fcd4">
+<img width="400" height="400" alt="about_us" src="https://github.com/itswillt/agfzb-CloudAppDevelopment_Capstone/assets/119243751/75d8f3f3-69e2-4658-bb7e-52202dd45529">
+
+
+
 # Final Project Template
 
 The final project for this course has several steps that you must complete. 
